@@ -99,8 +99,12 @@ body {
   margin: 0 0 32px;
 }
 
+.skills {
+  text-align: center;
+}
+
 .skills-list {
-  margin: 0;
+  margin: 0 450px;
   padding: 0;
 }
 
