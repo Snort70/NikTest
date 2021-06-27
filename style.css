@@ -55,6 +55,7 @@ body {
   text-align: center;
 }
 
+
 .heading {
   margin: 0 0 16px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
@@ -122,6 +123,9 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-php {
+  background-image: url("img/icon-php.svg")  ;
+}
 .level {
   margin: 4px 0 16px;
   padding: 0;
