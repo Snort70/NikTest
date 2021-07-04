@@ -22,7 +22,7 @@ function addSkills() {
         div.style.width = skill.skillLevel + '%';
         div.textContent = skill.skillLevel;
         
-        dd.insertBefore(div, null);
+        dd.append(div);
         dl.append(dt);
         dl.append(dd);
     });
