@@ -1,0 +1,17 @@
+[
+    {
+        "css": "skill-html",
+        "skillName": "HTML",
+        "skillLevel": 60
+    },
+    {
+        "css": "skill-css",
+        "skillName": "CSS",
+        "skillLevel": 40
+    },
+    {
+        "css": "skill-php",
+        "skillName": "PHP",
+        "skillLevel": 30
+    }
+]
