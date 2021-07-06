@@ -15,7 +15,7 @@ fetch('db/skills.json')
             div.style.width = skill.skillLevel + '%';
             div.textContent = skill.skillLevel;
 
-            dd.appendChild(div);
+            dd.append(div);
             dl.append(dt);
             dl.append(dd);
         });
